@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name 2020-03-04_17-44-24)(type Legacy)(uri /home/sridhar/dev/kicad/modules/ul_INN3162CH1XX/KiCAD/2020-03-04_17-44-24/2020-03-04_17-44-24.lib)(options "")(descr ""))
+  (lib (name xformers)(type Legacy)(uri /home/sridhar/dev/kicad/modules/xformers/xformers.lib)(options "")(descr ""))
+)
