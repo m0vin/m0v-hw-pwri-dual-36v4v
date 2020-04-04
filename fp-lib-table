@@ -10,4 +10,6 @@
   (lib (name Capacitor_THT)(type KiCad)(uri ${KISYSMOD}/Capacitor_THT.pretty)(options "")(descr ""))
   (lib (name Inductor_THT)(type KiCad)(uri ${KISYSMOD}/Inductor_THT.pretty)(options "")(descr ""))
   (lib (name Diode_THT)(type KiCad)(uri ${KISYSMOD}/Diode_THT.pretty)(options "")(descr ""))
+  (lib (name Connector_Wire)(type KiCad)(uri ${KISYSMOD}/Connector_Wire.pretty)(options "")(descr ""))
+  (lib (name Connector_Phoenix_MC_HighVoltage)(type KiCad)(uri ${KISYSMOD}/Connector_Phoenix_MC_HighVoltage.pretty)(options "")(descr ""))
 )

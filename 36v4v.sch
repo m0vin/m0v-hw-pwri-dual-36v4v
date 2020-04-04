@@ -214,7 +214,7 @@ U 1 1 5E4AE12A
 P 6825 1500
 F 0 "C11" H 6913 1546 50  0000 L CNN
 F 1 "22u 50V Electrolytic" H 6913 1455 50  0001 L CNN
-F 2 "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" H 6825 1500 50  0001 C CNN
+F 2 "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm" H 6825 1500 50  0001 C CNN
 F 3 "~" H 6825 1500 50  0001 C CNN
 F 4 "United Chemi-Con" H 6825 1500 50  0001 C CNN "MFG Name"
 F 5 "EKZE500ELL220ME11D" H 6825 1500 50  0001 C CNN "MFG Part Num"
@@ -301,7 +301,7 @@ U 1 1 5E50C70F
 P 2025 2625
 F 0 "J1" H 1943 2300 50  0000 C CNN
 F 1 "Conn_01x03" H 1943 2391 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 2025 2625 50  0001 C CNN
+F 2 "Connector_Phoenix_MC_HighVoltage:PhoenixContact_MCV_1,5_3-G-5.08_1x03_P5.08mm_Vertical" H 2025 2625 50  0001 C CNN
 F 3 "~" H 2025 2625 50  0001 C CNN
 	1    2025 2625
 	-1   0    0    1   
@@ -791,4 +791,26 @@ Wire Wire Line
 	3450 2175 3500 2175
 Wire Wire Line
 	3800 2175 3850 2175
+$Comp
+L Connector_Generic:Conn_01x02 J4
+U 1 1 5E906E27
+P 8250 2725
+F 0 "J4" H 8330 2717 50  0000 L CNN
+F 1 "Conn_01x02" H 8330 2626 50  0000 L CNN
+F 2 "Connector_Wire:SolderWirePad_1x02_P5.08mm_Drill1.5mm" H 8250 2725 50  0001 C CNN
+F 3 "~" H 8250 2725 50  0001 C CNN
+	1    8250 2725
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J5
+U 1 1 5E909967
+P 8250 2375
+F 0 "J5" H 8330 2367 50  0000 L CNN
+F 1 "Conn_01x02" H 8330 2276 50  0000 L CNN
+F 2 "Connector_Wire:SolderWirePad_1x02_P5.08mm_Drill1.5mm" H 8250 2375 50  0001 C CNN
+F 3 "~" H 8250 2375 50  0001 C CNN
+	1    8250 2375
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
