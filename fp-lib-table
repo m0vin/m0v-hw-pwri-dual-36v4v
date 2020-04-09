@@ -12,4 +12,6 @@
   (lib (name Diode_THT)(type KiCad)(uri ${KISYSMOD}/Diode_THT.pretty)(options "")(descr ""))
   (lib (name Connector_Wire)(type KiCad)(uri ${KISYSMOD}/Connector_Wire.pretty)(options "")(descr ""))
   (lib (name Connector_Phoenix_MC_HighVoltage)(type KiCad)(uri ${KISYSMOD}/Connector_Phoenix_MC_HighVoltage.pretty)(options "")(descr ""))
+  (lib (name Fuse)(type KiCad)(uri ${KISYSMOD}/Fuse.pretty)(options "")(descr ""))
+  (lib (name Varistor)(type KiCad)(uri ${KISYSMOD}/Varistor.pretty)(options "")(descr ""))
 )
