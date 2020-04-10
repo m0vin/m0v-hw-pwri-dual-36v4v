@@ -961,4 +961,8 @@ Wire Wire Line
 	7175 4250 7625 4250
 Wire Wire Line
 	7175 4350 7975 4350
+Text Label 5175 3950 2    50   ~ 0
+sink
+Wire Wire Line
+	5175 3950 5575 3950
 $EndSCHEMATC
